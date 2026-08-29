@@ -1,7 +1,7 @@
 # Atom1.1-PL
 1.1
 i just added to some commands numbers and else, well, i'm too lazy, so here is the translated document:
-Technical Specification and Documentation of the Atom Programming Language (v1.0)
+Technical Specification and Documentation of the Atom Programming Language (v1.1)
 
 This document serves as the basic guide and architectural specification for the Atom language — an ultra-minimalistic low-level language designed for use within its own micro-OS. The architecture combines principles of a linear pipeline and stack-based data processing (in the spirit of Forth concepts), ensuring maximum execution speed and minimal hardware resource requirements.
 
