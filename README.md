@@ -1,6 +1,8 @@
 # Atom1.1-PL
 1.1
-i just added to some commands numbers and else, well, i'm too lazy, so here is the translated document:
+Atom1.1 is the new version of atom programming language, i updated the language to the level, where it really could self-host itself(or just make it more realistic). the way you install is is simple, unpack the compiler, compile it and work. Mostly i just made it better to work, better if/else, now the logic can work,added work with files(minus one old flag command(i didn't needed it anyway)).  Made normal loops, so you can start them and end them, in a sentence-made it easier to work with.
+
+well, i'm too lazy, so here is the translated document:
 Technical Specification and Documentation of the Atom Programming Language (v1.1)
 
 This document serves as the basic guide and architectural specification for the Atom language — an ultra-minimalistic low-level language designed for use within its own micro-OS. The architecture combines principles of a linear pipeline and stack-based data processing (in the spirit of Forth concepts), ensuring maximum execution speed and minimal hardware resource requirements.
