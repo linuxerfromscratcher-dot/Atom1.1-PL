@@ -69,7 +69,7 @@ M (Memory): Full read/write operations on RAM at a specific address.
 
 N (Next): Increment (increases the value on the stack top by exactly 1).
 
-O (Output): Universal output: prints a number, character, or entire text buffer to screen / VGA buffer.
+O (Output): Universal output: prints a number, character, or entire text buffer to screen / VGA buffer. And uses / to write out text
 
 P (Push/Pop / Duplicate): Stack operations: duplicate top element (like DUP) or remove excess.
 
